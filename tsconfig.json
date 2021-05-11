@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": ["DOM", "DOM.iterable", "ESNext"],
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
     "skipDefaultLibCheck": true,
